@@ -1,0 +1,13 @@
+[package]
+name = "trapdoor"
+version = "0.1.0"
+authors = ["ElementG9 <garentyler@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+semver = "0.1.20"
+chrono = "0.2.15"
+log = "0.3.1"
+io_operations = "0.1.0"
